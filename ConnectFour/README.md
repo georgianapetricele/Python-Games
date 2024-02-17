@@ -1,1 +1,1 @@
- <a href="https://en.wikipedia.org/wiki/Connect_Four">Connect Four 🟡🔴</a> console game implemented using <a href="https://en.wikipedia.org/wiki/Minimax">Minimax Algorithm</a> for computer AI. Computer play should be competitive against the human player.
+ <a href="https://en.wikipedia.org/wiki/Connect_Four">Connect Four 🟡🔴</a> console game implemented using <a href="https://en.wikipedia.org/wiki/Minimax">Minimax Algorithm</a> for computer AI. Computer player is competitive against the human player.
